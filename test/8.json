@@ -1,0 +1,96 @@
+{
+    "ohlc": {
+        "open": 6.4399,
+        "high": 6.5562,
+        "low": 6.426,
+        "close": 6.5147,
+        "volume": 49548.23
+    },
+    "time": "2019-01-28T06:15:00",
+    "psar": 6.5787,
+    "sar": {
+        "_status": [
+            {
+                "sar": 6.5562,
+                "tr": false,
+                "af": 0.14,
+                "ep": 6.3723
+            },
+            {
+                "sar": 6.5787,
+                "tr": false,
+                "af": 0.14,
+                "ep": 6.3723
+            }
+        ]
+    },
+    "buy_order": {
+        "info": {
+            "symbol": "BNBUSDT",
+            "orderId": 87813927,
+            "clientOrderId": "Anj8qjYfBQqSx11oJ8IoCw",
+            "price": "6.48260000",
+            "origQty": "10.00000000",
+            "executedQty": "0.00000000",
+            "cummulativeQuoteQty": "0.00000000",
+            "status": "NEW",
+            "timeInForce": "GTC",
+            "type": "LIMIT",
+            "side": "BUY",
+            "stopPrice": "0.00000000",
+            "icebergQty": "0.00000000",
+            "time": 1548655200000,
+            "updateTime": 1548655200000,
+            "isWorking": true
+        },
+        "id": "87813927",
+        "timestamp": 1548655200000,
+        "datetime": "2019-01-28T06:00:00.000Z",
+        "lastTradeTimestamp": null,
+        "symbol": "BNB/USDT",
+        "type": "limit",
+        "side": "buy",
+        "price": 6.48,
+        "amount": 10.0,
+        "cost": 0.0,
+        "average": null,
+        "filled": 0.0,
+        "remaining": 10.0,
+        "status": "open",
+        "fee": null,
+        "trades": null
+    },
+    "sell_order": {
+        "info": {
+            "symbol": "BNBUSDT",
+            "orderId": 97799440,
+            "clientOrderId": "jRnduKQu8EbEswCoFOWg77",
+            "transactTime": 1553433016306,
+            "price": "16.89190000",
+            "origQty": "10.00000000",
+            "executedQty": "0.00000000",
+            "cummulativeQuoteQty": "0.00000000",
+            "status": "NEW",
+            "timeInForce": "GTC",
+            "type": "STOP_LOSS_LIMIT",
+            "side": "SELL",
+            "stopPrice": "16.89200000"
+        },
+        "id": "97799440",
+        "timestamp": 1553433016306,
+        "datetime": "2019-03-24T13:10:16.306Z",
+        "lastTradeTimestamp": null,
+        "symbol": "BNB/USDT",
+        "type": "stop_loss_limit",
+        "side": "sell",
+        "price": 6.3100000000000005,
+        "amount": 10.0,
+        "cost": 0.0,
+        "average": null,
+        "filled": 0.0,
+        "remaining": 10.0,
+        "status": "open",
+        "fee": null,
+        "trades": null
+    }
+}
